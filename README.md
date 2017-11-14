@@ -4,7 +4,8 @@
 A lovely little logic game by [Q42](http://q42.com).
 It was written by [Martin Kool](http://twitter.com/mrtnkl).
 
-Play it here:
+This is a fork of the game called Oh Steem by [Deveerei](https://steemit.com/@deveerei).
+Play it the original here:
 
 Online at [0hh1.com](http://0hh1.com)
 
