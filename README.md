@@ -6,6 +6,8 @@ It was written by [Martin Kool](http://twitter.com/mrtnkl).
 
 This is a fork of the game called Oh Steem by [Deveerei](https://steemit.com/@deveerei), working with [Precise](https://steemit.com/@precise).
 
+Test Site for Game here: https://deveerei.github.io/OhSteem/
+
 Sub-Project Announcement Here: https://steemit.com/utopian-io/@deveerei/sub-project-or-ohsteem-a-logic-game-design-github-roadmap
 
 Play the original here:
