@@ -137,7 +137,7 @@ p {
   transition: background-color .2s ease-out;
 }
 .tile .inner { 
-  background-color: #2a2a2a;
+  background-color: #2c3a45;
 }
 
 .tile-1 .inner:after, .tile-2 .inner:after {
