@@ -106,7 +106,7 @@ p {
 
 .board {
   padding: 10px 10px 20px 10px;
-  background: #394855;
+  background: #2c3a45;
 }
   .board.hidden {
     opacity: 0;
