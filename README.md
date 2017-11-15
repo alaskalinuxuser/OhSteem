@@ -4,7 +4,9 @@
 A lovely little logic game by [Q42](http://q42.com).
 It was written by [Martin Kool](http://twitter.com/mrtnkl).
 
-This is a fork of the game called Oh Steem by [Deveerei](https://steemit.com/@deveerei).
+This is a fork of the game called Oh Steem by [Deveerei](https://steemit.com/@deveerei), working with [Precise](https://steemit.com/@precise).
+
+Sub-Project Announcement Here: https://steemit.com/utopian-io/@deveerei/sub-project-or-ohsteem-a-logic-game-design-github-roadmap
 
 Play the original here:
 
