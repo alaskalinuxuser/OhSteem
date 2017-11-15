@@ -57,11 +57,11 @@ h1,h2,h3 {
   white-space: nowrap;
 }
 h2 {
-  font-size: 12vw;
+  font-size: 90px;
   margin: 7% 0 0 0;
 }
 h3 {
-  font-size: 12vw;
+  font-size: 90px;
   margin: 5% 0 0 0;
 }
 h2#boardsize {
