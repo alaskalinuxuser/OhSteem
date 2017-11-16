@@ -73,6 +73,7 @@ h2#boardsize {
   -moz-transition: opacity .3s ease-out;
   -ms-transition: opacity .3s ease-out;
   transition: opacity .3s ease-out;
+  font-size: 50px;
 }
 p {
   font-family: 'Josefin Sans', sans-serif;
