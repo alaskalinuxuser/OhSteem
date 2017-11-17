@@ -263,6 +263,7 @@ var Colors = new (function() {
   }
  
   function getComplementary(rgb) {
+    /*
     var asHex = false;
     if (typeof rgb == 'string')
       asHex = true;
@@ -274,6 +275,8 @@ var Colors = new (function() {
     if (asHex)
       result = rgbToHex(result);
     return result;
+    */
+    return "#1c252b"
   }
 
   function rgbToHsv(rgb) {
