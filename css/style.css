@@ -254,8 +254,18 @@ html body .show01 .tile .inner:after {
 }
 #digits #zero { position: absolute; left: 0; top: 0; width: 50%; height: 100%;}
 #digits #one { position: absolute; right: 0; top: 0; width: 50%; height: 100%;}
-#digits #hs { 
-  color: #fff; padding-left: 3%;
+#digits #hs1 { 
+  color: #fff; padding-left: 36%;
+  font-size: 40px;
+  text-shadow: 0 0 10px transparent;
+  -webkit-transition: color 1s ease-out;
+  -moz-transition: color 1s ease-out;
+  -ms-transition: color 1s ease-out;
+  transition: all 1s ease-out;
+}
+#digits #hs2 { 
+  color: #fff; padding-left: 40%;
+  font-size: 40px;
   text-shadow: 0 0 10px transparent;
   -webkit-transition: color 1s ease-out;
   -moz-transition: color 1s ease-out;
@@ -272,14 +282,20 @@ html body .show01 .tile .inner:after {
 }
 .hide0 #digits #zero { color: transparent; }
 .hide1 #digits #one { color: transparent; }
-.hidehs #digits #hs { 
+.hidehs #digits #hs1 { 
   color: transparent; 
   -webkit-transition: color .1s ease-out;
   -moz-transition: color .1s ease-out;
   -ms-transition: color .1s ease-out;
   transition: color .1s ease-out;
 }
-
+.hidehs #digits #hs2 { 
+  color: transparent; 
+  -webkit-transition: color .1s ease-out;
+  -moz-transition: color .1s ease-out;
+  -ms-transition: color .1s ease-out;
+  transition: color .1s ease-out;
+}
 
 .tile.marked .inner { 
   border: solid #fff 3px; 
