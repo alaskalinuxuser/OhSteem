@@ -96,10 +96,10 @@ var Game = new (function() {
 
     var containerSize = box.width;
 
-    $('h1').css('font-size', Math.round(containerSize * .24) + 'px')
-    $('h2').css('font-size', Math.round(containerSize * .18) + 'px')
-    $('h3').css('font-size', Math.round(containerSize * .15) + 'px')
-    $('p').css('font-size', Math.round(containerSize * .07) + 'px')
+    $('h1').css('font-size', Math.round(containerSize * .22) + 'px')
+    $('h2').css('font-size', Math.round(containerSize * .16) + 'px')
+    $('h3').css('font-size', Math.round(containerSize * .13) + 'px')
+    $('p').css('font-size', Math.round(containerSize * .055) + 'px')
     $('#menu h2').css('font-size', Math.round(containerSize * .24) + 'px')
     $('#menu p').css('font-size', Math.round(containerSize * .1) + 'px')
     $('#menu p').css('padding', Math.round(containerSize * .05) + 'px 0')
