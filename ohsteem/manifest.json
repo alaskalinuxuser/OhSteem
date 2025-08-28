@@ -1,0 +1,15 @@
+{
+    "name": "ohsteem.alaskalinuxuser",
+    "description": "Logic game where each row and column must have equal amount of blocks out of 2 colors",
+    "architecture": "all",
+    "title": "ohsteem",
+    "hooks": {
+        "ohsteem": {
+            "apparmor": "ohsteem.apparmor",
+            "desktop":  "ohsteem.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "alaskalinuxuser <alaskalinuxuser@fastmail.com>",
+    "framework" : "@CLICK_FRAMEWORK@"
+}
